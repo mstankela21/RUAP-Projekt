@@ -1,2 +1,3 @@
 ﻿
-Console.WriteLine("Pozdrav iz aplikacije od Matka Stankovića");
+Console.WriteLine("Pozdrav iz aplikacije od Matka Stankovića index");
+
